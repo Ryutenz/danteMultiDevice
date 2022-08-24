@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6283829082780']
+global.owner = ['6283819082780']
 global.pengguna = 'Ryutenzo'
 global.premium = []
 global.author = 'LucyFxR'
-global.pemilik = ['6283829082780'] 
-global.ownernomer = '6283829082780'
+global.pemilik = ['6283819082780'] 
+global.ownernomer = '6283819082780'
 global.ownername = 'LucyFxR'
 global.botname = 'ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ'
-global.tengah = "				6283829082780					"
+global.tengah = "				6283819082780					"
 global.Prefix = 'Multi Prefix'
-global.meki = '6283829082780'
+global.meki = '6283819082780'
 global.footer = 'ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'LucyFxR' //Ubah nama kalian buat nambahin di tqtq bot
@@ -31,11 +31,11 @@ global.ig = 'https://instagram.com/ryutenzo_'
 global.gc = 'https://chat.whatsapp.com/GsuP6Mw4jjs7qm4XtXkwAd' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '666'
 global.gopay = '666'
-global.wame = 'wa.me/6283829082780'
+global.wame = 'wa.me/6283819082780'
 global.email = 'peikontlo@gmail.com'
 global.region = 'Indonesia'
 global.link = 'doujindesu.xxx'
-global.sc = 'https://bit.ly/SubscribeFLOB'
+global.sc = 'https://bit.ly/DevilDante'
 global.packname = '"{\nAuthor: LucyFxR"\n"Bot Number: 6283144670590"\n"Bot Name: ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ"\n"Instagram: @ryutenzo_"\n}' 
 global.author = '' 
 global.sessionName = 'session'
